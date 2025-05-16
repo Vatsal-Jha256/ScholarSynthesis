@@ -1,0 +1,14 @@
+.history/
+.vscode/
+.env
+.venv/
+.cache/
+output/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.log
+*.db
