@@ -4,7 +4,7 @@ Automatically generate comprehensive literature reviews for research papers with
 
 ## Overview
 
-ScholarSynthesis (formerly LitReviewAgent) helps researchers create focused literature reviews by:
+ScholarSynthesis helps researchers create focused literature reviews by:
 1. Taking your paper's title and abstract as input
 2. Finding the most relevant related papers using Semantic Scholar
 3. Ranking papers by relevance to your research
