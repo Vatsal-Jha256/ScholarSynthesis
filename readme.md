@@ -74,7 +74,7 @@ Look in the `output` directory for these files:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ScholarSynthesis.git
+   git clone https://github.com/Vatsal-Jha256/ScholarSynthesis.git
    cd ScholarSynthesis
    ```
 
